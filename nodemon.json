@@ -1,0 +1,5 @@
+{
+    "env":{
+        "MONGO_SECRET_KEY":"sachya215272"
+    }
+}
